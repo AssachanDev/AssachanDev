@@ -10,6 +10,7 @@
 
 4th-year Computer Science student and part-time Data & AI Engineer at Sensornode.
 I focus on building end-to-end IoT data systems, from embedded sensor integration to machine learning inference at the edge.
+My work covers predictive maintenance systems, computer vision pipelines, and Linux-based infrastructure — primarily using Python on Arch Linux with a strong preference for CLI-driven workflows.
 
 ---
 
