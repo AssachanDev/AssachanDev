@@ -1,9 +1,6 @@
 <div align="center">
 
-# Assachan Khumthong
-**`// @AssachanDev`**
-
-Data & AI Engineer · IoT · Edge Computing
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Assachan+Senpaseuth;Data+%26+AI+Engineer+%40+Sensornode;IoT+%C2%B7+Edge+AI+%C2%B7+Computer+Vision" alt="Typing SVG" />
 
 </div>
 
@@ -11,31 +8,29 @@ Data & AI Engineer · IoT · Edge Computing
 
 ### About
 
-Data & AI engineer at **Sensornode** — building predictive maintenance systems for industrial IoT and running computer vision inference on the edge.
-
-Currently a 4th-year CS student who ships working systems, not slides.
-Arch Linux · Neovim · CLI-first · Keyboard-driven.
+4th-year Computer Science student and part-time Data & AI Engineer at Sensornode.
+I focus on building end-to-end IoT data systems, from embedded sensor integration to machine learning inference at the edge.
 
 ---
 
-### Tech Stack
+### Languages & Tools
 
-**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=3fb950)
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=3fb950)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=d2a8ff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=f0883e)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=ff7b72)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ff7b72)
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3fb950)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=d2a8ff)
+---
 
-**Tools & Environment**
+### Currently Learning
 
-![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=3fb950)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=d2a8ff)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=ff7b72)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f0883e)
-
-**Domains**
-
-![IoT](https://img.shields.io/badge/IoT-0d1117?style=for-the-badge&logo=mqtt&logoColor=79c0ff)
-![Edge AI](https://img.shields.io/badge/Edge_AI-0d1117?style=for-the-badge&logo=tensorflow&logoColor=a8cc8c)
+- 🦀 Rust
+- 🖥️ Linux server administration — NAS, self-hosted services, Telegram bots
+- 🤖 AI application development
 
 ---
 
@@ -43,12 +38,23 @@ Arch Linux · Neovim · CLI-first · Keyboard-driven.
 
 <div align="center">
 
-![AssachanDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AssachanDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=090909&title_color=d2a8ff&icon_color=3fb950&text_color=8b949e)
+<img src="https://streak-stats.demolab.com?user=AssachanDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssachanDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
 
 </div>
 
 ---
 
+### Contact
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72)](mailto:assachan.senpaseuth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/assachan-senpaseuth-82a3b1370)
+
+---
+
 <div align="center">
-<sub>keyboard-driven · no gui needed</sub>
+<sub>mechanical keyboard enthusiast · cli-first · no gui needed</sub>
 </div>
