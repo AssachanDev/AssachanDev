@@ -29,7 +29,7 @@ I focus on building end-to-end IoT data systems, from embedded sensor integratio
 ### Currently Learning
 
 - 🦀 **Rust**
-- 🖥️ **Linux server administration** — NAS, self-hosted services, Telegram bots
+- 🖥️ **Linux server administration**
 - 🤖 **AI application development**
 
 ---
