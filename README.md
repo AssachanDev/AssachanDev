@@ -41,9 +41,7 @@ My work covers predictive maintenance systems, computer vision pipelines, and Li
 
 <img src="https://streak-stats.demolab.com?user=AssachanDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssachanDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
 
 </div>
 
