@@ -34,10 +34,10 @@ Focused on building practical systems at the intersection of hardware and AI.
 <td valign="top" width="50%">
 
 **Platforms & Tools**<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **AI/ML**<br/>
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square) ![LLM Integration](https://img.shields.io/badge/LLM_Integration-10B981?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square) ![LLM Integration](https://img.shields.io/badge/LLM_Integration-10B981?style=flat-square)
 
 </td>
 </tr>
