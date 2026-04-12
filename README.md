@@ -12,7 +12,7 @@ Passionate about applying AI to real-world industrial problems, and working towa
 
 ### Experience
 
-**IoT & AI Engineer · IoT company** *(2 years, part-time)*
+**IoT & AI Engineer · IoT company**
 
 - Built a computer vision pipeline for industrial measurement — deployed YOLO-based detection on camera feeds to automate object counting and sizing, integrated with physical sensors, data logged to cloud
 - Building a vibration-based predictive maintenance system — real-time anomaly detection for industrial machinery with cloud reporting and ML-based failure analysis *(in progress)*
