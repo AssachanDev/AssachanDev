@@ -1,7 +1,11 @@
+<div align="center">
+
 ## assachan senpaseuth
 
 CS student with 2 years of part-time experience in IoT & AI engineering.
 Focused on building practical systems at the intersection of hardware and AI.
+
+</div>
 
 ---
 
@@ -16,27 +20,23 @@ Focused on building practical systems at the intersection of hardware and AI.
 
 ### Skills
 
-**Languages** · Python, Bash
-
-**Hardware** · Raspberry Pi, ESP32
-
-**Platforms & Tools** · Linux, Docker, Ubuntu Server
-
-**AI/ML** · YOLO, RAG, LLM integration
+| | |
+|---|---|
+| **Languages** | Python, Bash |
+| **Hardware** | Raspberry Pi, ESP32 |
+| **Platforms & Tools** | Linux, Docker, Ubuntu Server |
+| **AI/ML** | YOLO, RAG, LLM integration |
 
 ---
 
 ### Currently Learning
 
-Data Analysis · Data Science · Machine Learning · Deep Learning · Statistics for ML/DL · Rust · Docker · Linux internals · RAG · LLM integration
+`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Statistics for ML/DL` `Rust` `Docker` `Linux internals`
 
 ---
 
-### Contact
-
-[![Email](https://img.shields.io/badge/Email-assachan.senpaseuth%40gmail.com-black?style=flat-square&logo=gmail)](mailto:assachan.senpaseuth@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Assachan_Senpaseuth-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/assachan-senpaseuth-82a3b1370)
-
----
+<div align="center">
 
 ![editor](https://img.shields.io/badge/editor-neovim-57A143?style=flat-square) ![os](https://img.shields.io/badge/os-arch_linux-1793D1?style=flat-square) ![style](https://img.shields.io/badge/style-cli--first-gray?style=flat-square)
+
+</div>
